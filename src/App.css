@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+#body {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  background: #9a7b4f;
+}
+
+#inner-container {
+  border-radius: 1%;
+  background: #65350f;
+  color: white;
+}
+#recording-display {
+  min-height: 40px;
+  margin: 0 90px 0 90px;
+  background: #808080;
+}
+#main-btns {
+  background: #ffcd58;
+  color: white;
+  border: solid 2px;
+}
+#inner-container {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+#title {
+  padding-top: 20px;
+}
